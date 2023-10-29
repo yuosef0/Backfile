@@ -3,7 +3,7 @@ const myhttp = require("http")
 const port=7000
 
 const foods = [
-    { id: 1, name: "Burger", mealType: "Lunch", price: 25 },
+    { id: 1, name: "Burger", mealType: "Lunch", price: 250 },
     { id: 2, name: "Pizza", mealType: "Dinner", price: 28 },
     { id: 3, name: "Salad", mealType: "Lunch", price: 22 },
     { id: 4, name: "Pasta", mealType: "Dinner", price: 27 },
